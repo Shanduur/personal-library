@@ -28,7 +28,7 @@
 
 ## Modded BIOS
 
-This modded BIOS includes PCIe NVMe support from *NvmExpressDxe_Small* module. It's based on newest BETA bios for this motherboard, `f23b`.
+This modded BIOS includes PCIe NVMe support from *NvmExpressDxe_Small* module. It's based on newest _beta_ BIOS for this motherboard, `f23b`.
 
 Edited with MMTool `4.50.0.23`
 
